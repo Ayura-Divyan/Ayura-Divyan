@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on small side projects while studying<br>🎓 I’m currently learning at Robert Gordan University 
+🔭 I’m currently working on small side projects while studying<br>🎓 I’m currently learning at Robert Gordan University <br>✨ I have dabbled in many different fields such as AI/ML, Video/Photo editing, web development and much more
 
 
 ## 🌐 Socials:
